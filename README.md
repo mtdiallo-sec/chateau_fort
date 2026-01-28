@@ -13,19 +13,15 @@ Les tours sont paramétrables (dimensions, ouvertures, créneaux) et la scène p
 - Rotation de la scène pour visualiser le château sous tous les angles
 - Amélioration de l’aspect graphique (formes, textures, détails)
 
-🧪 Test et Installation
-Prérequis
+### 🧪 Test et Installation
+📦 Prérequis
 
-Processing installé
+  - Java JDK 8 ou supérieur installé
+  - Processing installé
 
-Java (inclus avec Processing)
+▶️ Lancer le projet
 
-Lancer le projet
-
-Télécharger le projet depuis GitHub
-
-Ouvrir le fichier principal .pde avec Processing
-
-Cliquer sur le bouton Run pour lancer la simulation
-
-Le château fort s’affiche en 3D et peut être observé sous différents angles
+  - Télécharger le projet depuis GitHub
+  - Ouvrir le fichier principal `.pde` avec Processing
+  - Cliquer sur le bouton Exécuter ▶️ pour lancer la simulation
+  - Le château fort s’affiche en 3D et peut être observé sous différents angles
